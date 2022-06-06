@@ -1,0 +1,8 @@
+core/BrowserInstance.class
+utils/ReadExcel.class
+core/ActionDrivers.class
+pages/HomePage.class
+pages/SignUpPage.class
+utils/DataProviders.class
+core/Waits.class
+pages/SignInPage.class

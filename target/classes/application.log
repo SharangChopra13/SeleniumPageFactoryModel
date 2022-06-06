@@ -1,0 +1,14 @@
+2022-06-06 23:25:13 INFO  HomePage - getting text of categories
+ 2022-06-06 23:25:23 INFO  HomePage - clicked on login button
+ 2022-06-06 23:25:24 INFO  SignInPage - entering login username
+ 2022-06-06 23:25:24 INFO  SignInPage - entering login username
+ 2022-06-06 23:25:24 INFO  SignInPage - click on login button
+ 2022-06-06 23:25:24 INFO  HomePage - verifying logout is displayed or not
+ 2022-06-06 23:25:26 INFO  HomePage - clicked on logout button
+ 2022-06-06 23:25:26 INFO  HomePage - clicked on login button
+ 2022-06-06 23:25:27 INFO  SignInPage - entering login username
+ 2022-06-06 23:25:27 INFO  SignInPage - entering login username
+ 2022-06-06 23:25:27 INFO  SignInPage - click on login button
+ 2022-06-06 23:25:27 INFO  HomePage - verifying logout is displayed or not
+ 2022-06-06 23:25:29 INFO  HomePage - clicked on logout button
+ 
